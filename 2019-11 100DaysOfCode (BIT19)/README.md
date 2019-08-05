@@ -14,3 +14,5 @@ Twitter: @pbeens
 GitHub: https://github.com/pbeens
 
 GDoc URL of this session description: http://bit.ly/beens-bit19-proposal
+
+<center>URL of this folder: http://bit.ly/beens-100days-bit19</center>
