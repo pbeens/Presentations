@@ -15,4 +15,6 @@ GitHub: https://github.com/pbeens
 
 GDoc URL of this session description: http://bit.ly/beens-bit19-proposal
 
+Final Presentation: [#100DaysOfCode](https://docs.google.com/presentation/d/16saK6zSkaHLRoK1nqhvVznibfrtk1rzsh0gB2zcrOQQ/edit?usp=sharing)
+
 <center>URL of this folder: http://bit.ly/beens-100days-bit19</center>
