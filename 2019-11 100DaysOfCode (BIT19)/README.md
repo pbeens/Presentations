@@ -6,15 +6,15 @@ Have you wanted to learn how to program but lacked the support? #100DaysOfCode i
 
 Come learn how to get started and how the process works. You’ll especially benefit from this session if you never used GitHub and want to learn how easy it can be.
 
-As a bonus, I will share the progress I’ve made on my own #100DaysOfCode journey and offer personal tips on what made me more successful and what tools I used.
+As a bonus, I will talk about how the #100DaysOfCode can be adapted to fulfill your own personal PD goals (#100DaysOfX) and will share the progress I’ve made during my own #100DaysOfCode journey.
 
 Peter Beens
 email: pbeens@gmail.com
 Twitter: @pbeens
 GitHub: https://github.com/pbeens
 
-GDoc URL of this session description: http://bit.ly/beens-bit19-proposal
-
 Final Presentation: [#100DaysOfCode](https://docs.google.com/presentation/d/16saK6zSkaHLRoK1nqhvVznibfrtk1rzsh0gB2zcrOQQ/edit?usp=sharing)
+
+GDoc URL of this session description: http://bit.ly/beens-bit19-proposal
 
 <center>URL of this folder: http://bit.ly/beens-100days-bit19</center>
